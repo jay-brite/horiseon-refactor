@@ -6,30 +6,35 @@ This project was completed per request by Horiseon stakeholders.
 
 Upon completion the codebase will follow accessability standards so that the application is optimized for search engines.
 
-The refactor project included completing the following tasks:
+## Project Task List:
 
-* added html comments to assist in code readability
+* Added HTML comments to assist in code readability
 
-* edited html with semantic elements
+* Edited HTML with semantic elements
 
-* edited html so that it follows a logical structure
+* Edited HTML so that it follows a logical structure
 
-* edited html so that all links work properly
+* Edited HTML so that all links work properly
 
-* edited heading attributes so that they follow a sequential order
+* Edited heading attributes so that they follow a sequential order
 
-* added accessibility alt attributes to all images
+* Added accessibility alt attributes to all images
 
-* updated title to so that it accurately describes the application
+* Updated title to so that it accurately describes the application
 
-* added css comments to assist in code readability
+* Added CSS comments to assist in code readability
 
-* consolidated css selectors
+* Consolidated CSS selectors
 
-* reorganized properties to follow semantic structure
+* Reorganized properties to follow semantic structure
 
-## Screenshot:
+## Learnings:
 
+Completing this project allowed me to build my skills in refactoring code that will make Horiseon's webpage more accessible and improve SEO. 
+
+## Application Screenshot:
+
+![Application Screenshot](..challenge-1/horiseon-refactor/assets/images/Screenshot.png?raw=true "Horiseon Refactor Screenshot")
 
 ## Application Link:
 
