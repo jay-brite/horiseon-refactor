@@ -34,7 +34,7 @@ Completing this project allowed me to build my skills in refactoring code that w
 
 ## Application Screenshot:
 
-![Application Screenshot](..challenge-1/horiseon-refactor/assets/images/Screenshot.png?raw=true "Horiseon Refactor Screenshot")
+[https://github.com/jay-brite/horiseon-refactor/blob/main/assets/images/Screenshot.png](https://github.com/jay-brite/horiseon-refactor/blob/main/assets/images/Screenshot.png "Horiseon Refactor Screenshot")
 
 ## Application Link:
 
