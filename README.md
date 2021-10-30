@@ -34,7 +34,7 @@ Completing this project allowed me to build my skills in refactoring code that w
 
 ## Application Screenshot:
 
-![](assets/images/Screenshot.png)
+![screenshot of deployed application](assets/images/Screenshot.png)
 
 ## Application Link:
 
